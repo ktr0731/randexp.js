@@ -37,7 +37,7 @@
     "gulp-insert": "^0.5.0",
     "gulp-uglify": "^3.0.0",
     "istanbul": "*",
-    "mocha": "*",
+    "mocha": ">=4.0.1",
     "vinyl-buffer": "^1.0.0",
     "vinyl-source-stream": "^1.1.0"
   },
